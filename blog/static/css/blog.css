@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #C25100;
+    background-color: #5400c2;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -53,15 +53,14 @@ h4 {
     float: right;
 }
 
-.btn-secondary,
-.btn-secondary:visited {
-    color: #C25100;
+.btn-secondary{
+    color: #00c22a;
     background: none;
-    border-color: #C25100;
+    border: 5px solid #C25100;
     margin-left: 15px;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #2400c2;
 }
